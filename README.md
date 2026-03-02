@@ -7,6 +7,10 @@
 
 A responsive Next.js weather dashboard that displays current weather conditions and a 5-day forecast for any city using the Open-Meteo API.
 
+
+![weather-dashboard screenshot](docs/screenshot.png)
+
+
 ## Features
 
 - 🔍 **City Search**: Search for any city with debounced API calls
