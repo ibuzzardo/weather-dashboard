@@ -1,5 +1,10 @@
 # Weather Dashboard
 
+> Built with [Dark Factory v4](https://github.com/ibuzzardo/dark-factory-v4) — autonomous AI software development pipeline
+
+**[Live Demo](https://weather-dashboard-brown-zeta.vercel.app)**
+
+
 A responsive Next.js weather dashboard that displays current weather conditions and a 5-day forecast for any city using the Open-Meteo API.
 
 ## Features
